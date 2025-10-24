@@ -39,7 +39,7 @@ The extension requires no configuration. Once installed, it will automatically d
 
 ---
 
-## Contributing ☕
+## Contributing 🫂
 
 Contributions are welcome! You can fork the project and submit pull requests. 👍
 
