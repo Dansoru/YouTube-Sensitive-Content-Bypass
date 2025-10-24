@@ -3,22 +3,18 @@
 🚀 **YouTube Sensitive Content Bypass** is a Chromium extension that automatically closes the sensitive content warning on YouTube and YouTube Music.
 
 ---
-
-> [!IMPORTANT]
-> This extension **automatically closes sensitive content popups** on YouTube and YouTube Music. It detects internal navigation (SPA) and avoids repeated clicks on the same popup.
-
 ## Features
 
-- Automatically closes the sensitive content popup.
-- Detects internal navigation (SPA) on YouTube.
-- Prevents repeated clicks on the same popup.
-- Works on YouTube and YouTube Music.
+- ✅ Automatically closes sensitive content popups
+- 🔄 Detects internal navigation (SPA) on YouTube
+- 🚫 Prevents repeated clicks on the same popup
+- 🎵 Works on both YouTube and YouTube Music
 
 ---
 
 ## Installation
 
-> [!TIP]
+> [!IMPORTANT]
 > Make sure you are using a Chromium-based browser (Chrome, Brave, Edge, etc.).
 
 1. Clone or download this repository:
