@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Sensitive Content Bypass",
+  "version": "2.0",
+  "description": "Automatically closes the sensitive content warning on YouTube and YouTube Music.",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*", "*://music.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "48": "icon.png"
+    },
+    "default_popup": "popup.html",
+    "default_title": "YouTube Sensitive Content Bypass"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
