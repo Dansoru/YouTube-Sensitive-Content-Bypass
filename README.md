@@ -1,13 +1,6 @@
 # YouTube Sensitive Content Bypass 🧘
 
 🚀 **YouTube Sensitive Content Bypass** is a Chromium extension that automatically closes the sensitive content warning on YouTube and YouTube Music.
-
-![GitHub stars](https://img.shields.io/github/stars/Dansoru/YouTube-Sensitive-Content-Bypass?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/Dansoru/YouTube-Sensitive-Content-Bypass?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/Dansoru/YouTube-Sensitive-Content-Bypass?style=flat-square)
-![GitHub watchers](https://img.shields.io/github/watchers/Dansoru/YouTube-Sensitive-Content-Bypass?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/Dansoru/YouTube-Sensitive-Content-Bypass?style=flat-square)
-
 ---
 
 > [!IMPORTANT]
