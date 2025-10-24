@@ -24,7 +24,7 @@
 1. Clone or download this repository:
 
 ```bash
-git clone https://github.com/Dansoru/YouTube-Sensitive-Content-Bypass.git
+git clone https://github.com/rvf1-k/YouTube-Sensitive-Content-Bypass.git
 ````
 
 2. Open your browser and go to `chrome://extensions/`.
