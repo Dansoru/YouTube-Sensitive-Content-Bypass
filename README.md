@@ -60,7 +60,7 @@ Contributions are welcome! You can fork the project and submit pull requests. �
  - [Teléfono de la Esperanza](https://www.telefonodelaesperanza.org/) – 717 003 717
 
  **Latin America**
- - Argentina: [Línea de Prevención del Suicidio](http://www.salaspsiquiatria.org.ar/) – 135
- - Mexico: [SAPTEL](https://sap.org.mx/) – 800 472 7835
+ - Argentina: [Línea de Prevención del Suicidio](https://www.asistenciaalsuicida.org.ar/) – 135
+ - Mexico: [SAPTEL](https://www.saptel.org.mx/) – 5259-8121
  - Colombia: [Línea Nacional de Prevención del Suicidio](https://www.minsalud.gov.co/) – 123
- - Chile: [Teléfono de la Esperanza Chile](https://www.telefonodelaesperanza.cl/) – 600 360 7777
+ - Chile: [Teléfono de la Esperanza Chile](https://asistenciaalsuicida.com/telefono-de-la-esperanza-chile/) – (00 56 42) 22 12 00
